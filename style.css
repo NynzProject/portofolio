@@ -754,6 +754,6 @@ section {
   }
 }
 
-#projects {
+#skills, #projects{
   padding-top: 140px; /* Sebelumnya 80px → sekarang turun lebih jauh */
 }
