@@ -753,3 +753,7 @@ section {
     grid-template-columns: 1fr;
   }
 }
+
+#projects {
+  padding-top: 140px; /* Sebelumnya 80px → sekarang turun lebih jauh */
+}
