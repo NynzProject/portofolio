@@ -757,3 +757,22 @@ section {
 #skills, #projects{
   padding-top: 140px; /* Sebelumnya 80px → sekarang turun lebih jauh */
 }
+
+/* experience section */
+.experience-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.experience-text {
+  flex: 1;
+  padding-right: 50px;
+}
+
+.experience-text p {
+  margin-bottom: 20px;
+  line-height: 1.6;
+  color: #cccccc;
+}
